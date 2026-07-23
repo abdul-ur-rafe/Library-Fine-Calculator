@@ -1,0 +1,7 @@
+abdul.rafey.1851@gmail.com's copy of Dune owes $1.25
+abdul.rafey.1852@gmail.com's copy of Harry Potter owes $1.00
+abdul.rafey.1852@gmail.com's copy of Wimpy Kid owes $1.75
+abdul.rafey.1854@gmail.com's copy of Horrorland owes $0.50
+abdul.rafey.1855@gmail.com's copy of Mockingbird owes $0.00
+[('abdul.rafey.1852@gmail.com', 2)]
+The Total Fines of the Library is $4.50
